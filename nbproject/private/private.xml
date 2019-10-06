@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Group 20190927-06:28:12">
+            <file>file:/home/nafees/NetBeansProjects/E-Commerce/web/WEB-INF/pages/login.jsp</file>
+            <file>file:/home/nafees/NetBeansProjects/E-Commerce/src/java/Mpackage/ModelInterface.java</file>
+            <file>file:/home/nafees/NetBeansProjects/E-Commerce/web/CSS/LoginPage.css</file>
+            <file>file:/home/nafees/NetBeansProjects/E-Commerce/src/java/controllerPackage/FrontController.java</file>
+            <file>file:/home/nafees/NetBeansProjects/E-Commerce/web/WEB-INF/pages/forgetpassword.jsp</file>
+            <file>file:/home/nafees/NetBeansProjects/E-Commerce/src/java/Mpackage/RecoveryModel.java</file>
+            <file>file:/home/nafees/NetBeansProjects/E-Commerce/src/java/utility/MailSender.java</file>
+            <file>file:/home/nafees/NetBeansProjects/E-Commerce/src/java/Mpackage/ValidateModel.java</file>
+            <file>file:/home/nafees/NetBeansProjects/E-Commerce/src/java/utility/RecoveryMail.java</file>
+            <file>file:/home/nafees/NetBeansProjects/E-Commerce/src/java/registerationService/RegisterService.java</file>
+            <file>file:/home/nafees/NetBeansProjects/E-Commerce/src/java/accountIssue/OtpGenerator.java</file>
+            <file>file:/home/nafees/NetBeansProjects/E-Commerce/src/java/Mpackage/RegistrationModel.java</file>
+            <file>file:/home/nafees/NetBeansProjects/E-Commerce/web/JS/loginjs.js</file>
+            <file>file:/home/nafees/NetBeansProjects/E-Commerce/src/java/Mpackage/AddToCartModel.java</file>
+            <file>file:/home/nafees/NetBeansProjects/E-Commerce/src/java/Mpackage/UpdaterModel.java</file>
+            <file>file:/home/nafees/NetBeansProjects/E-Commerce/src/java/registerationService/UserService.java</file>
+            <file>file:/home/nafees/NetBeansProjects/E-Commerce/web/JS/registration.js</file>
+            <file>file:/home/nafees/NetBeansProjects/E-Commerce/web/index.jsp</file>
+            <file>file:/home/nafees/NetBeansProjects/E-Commerce/src/java/Mpackage/ImageUploadModel.java</file>
+            <file>file:/home/nafees/NetBeansProjects/E-Commerce/web/WEB-INF/pages/loginhome.jsp</file>
+            <file>file:/home/nafees/NetBeansProjects/E-Commerce/web/WEB-INF/pages/newPassword.jsp</file>
+            <file>file:/home/nafees/NetBeansProjects/E-Commerce/src/java/databaseConnection/DbConn.java</file>
+            <file>file:/home/nafees/NetBeansProjects/E-Commerce/src/java/Mpackage/AvailabilityCheckModel.java</file>
+            <file>file:/home/nafees/NetBeansProjects/E-Commerce/src/java/Mpackage/LoginModel.java</file>
+            <file>file:/home/nafees/NetBeansProjects/E-Commerce/src/java/Mpackage/SearchModel.java</file>
+            <file>file:/home/nafees/NetBeansProjects/E-Commerce/web/WEB-INF/pages/homepage_1.jsp</file>
+            <file>file:/home/nafees/NetBeansProjects/E-Commerce/src/java/Mpackage/ForgetPasswordModel.java</file>
+            <file>file:/home/nafees/NetBeansProjects/E-Commerce/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>
