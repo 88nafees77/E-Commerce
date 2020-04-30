@@ -18,7 +18,7 @@ public class MailSender {
     public boolean sendMail(String email,String ucode) {
         String from = "verify.email090@gmail.com";
         final String username = "verify.email090@gmail.com";
-        final String password = "nafees@123";
+        final String password = "nafees";
         String host = "smtp.gmail.com";
         Properties props = new Properties();
         props.put("mail.smtp.auth", true);
